@@ -46,11 +46,10 @@ cd E-Health-monitoring-system
 ```
 
 ### 3. Extract the ZIP File
-Agar tumne manually ZIP upload kiya hai to pehle ZIP extract kar lo.
 
 ### 4. Install Dependencies
-Python (version 3.8+ recommended) install hona chahiye.  
-Phir command run karo:
+Python (version 3.8+ recommended) install.
+
 ```bash
 pip install -r requirements.txt
 ```
