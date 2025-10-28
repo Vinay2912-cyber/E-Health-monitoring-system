@@ -32,3 +32,33 @@ This project demonstrates how IoT and cloud integration can be used to monitor a
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Vinay2912-cyber/E-Health-monitoring-system.git
+
+## How to Run the Project
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Vinay2912-cyber/E-Health-monitoring-system.git
+```
+
+### 2. Navigate to the Project Folder
+```bash
+cd E-Health-monitoring-system
+```
+
+### 3. Extract the ZIP File
+Agar tumne manually ZIP upload kiya hai to pehle ZIP extract kar lo.
+
+### 4. Install Dependencies
+Python (version 3.8+ recommended) install hona chahiye.  
+Phir command run karo:
+```bash
+pip install -r requirements.txt
+```
+
+### 5. Run the Flask App
+```bash
+python app.py
+```
+
+### 6. Open in Browser
+http://127.0.0.1:5000/
